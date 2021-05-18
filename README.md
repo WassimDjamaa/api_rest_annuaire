@@ -40,7 +40,7 @@
         Supposons que l’on ait à tester une fonction Lendemain qui calcule le lendemain d’une date passée en paramètre et définie par trois entiers : Jour, Mois, et Année. 
       On considère (arbitrairement) que l’année doit être plus grande que 1000 et plus petite que 3000. On doit prendre en compte les années bissextiles. 
       Pour cela on commence par prendre en compte les contraintes élémentaires sur les paramètres en entrées. 
-    * 4: Que doit-on séléctionner pou la création du projet avec Mongodb ? (Question par mail)
+    * 4: Que doit-on séléctionner pour la création du projet avec Mongodb ? (Question par mail)
 
 * Les réponses:
   * Pour Wassim :
