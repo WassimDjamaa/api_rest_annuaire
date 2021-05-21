@@ -87,7 +87,7 @@
                  Lors du test, si les mesures sont trois fois les mêmes alors c'est un triangle équilatéral.
                                                          
     * Réponse 2: Dans un test, il peut y avoir une erreur, c'est alors un défaut il y aura donc une annomalie dans ce test. 
-    * Réponse 3: 
+    * Réponse 3:  Je n'ai pas trouvé la solution.
   
   
   * Réponse 4: 
