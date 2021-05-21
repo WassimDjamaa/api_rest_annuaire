@@ -53,11 +53,11 @@
          de rentrer un nombre négatif).
   
     * Réponse 2: 
-        Selon moi une erreur peut entrainer un défaut mais ce défaut peur déboucher sur une anomalie
+         Selon moi une erreur peut entrainer un défaut mais ce défaut peut déboucher sur une anomalie
   
     * Réponse 3: 
-        Je n'ai pas pu résoudre le problème correctement, néanmoins je suppose que pour déterminer les partitions il faut 
-        prendre en compte les années bissextiles qui peuvent enlevés des jours dans l'année.
+         Je n'ai pas pu résoudre le problème correctement, néanmoins je suppose que pour déterminer les partitions il faut 
+         prendre en compte les années bissextiles qui peuvent enlevés des jours dans l'année.
   
   * Pour Claire:
     * Réponse 1 :
