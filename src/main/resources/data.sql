@@ -1,0 +1,1 @@
+INSERT INTO person VALUES (1, 'Wassim','DJAMAA','1999-06-18','62100','test@test','0456543212');
