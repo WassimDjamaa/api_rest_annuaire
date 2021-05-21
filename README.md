@@ -79,8 +79,14 @@
     * Réponse 3:
   
   * Pour Olivia:
-    * Réponse 1: 
-    * Réponse 2: 
+    * Réponse 1: Il faut vérifier si les trois données sont rentrées, et vérifier que les données sont des mesures.
+                 Il faut vérifier si les données font bien un triangle afin de savoir le type du triangle.
+                 Il faut tester les mesures ensemble afin de savoir le nom du triangle.
+                 Lors du test, si les mesures sont différents alors c'est Scalène.
+                 Lors du test, si les mesures sont deux fois les mêmes alors c'est un triange isocèle.
+                 Lors du test, si les mesures sont trois fois les mêmes alors c'est un triangle équilatéral.
+                                                         
+    * Réponse 2: Dans un test, il peut y avoir une erreur, c'est alors un défaut il y aura donc une annomalie dans ce test. 
     * Réponse 3: 
   
   
