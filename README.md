@@ -85,7 +85,7 @@
         au moins 7-8 tests
   
     * Réponse 2: L'erreur humaine de rentrer une donnée non conforme peut entraîner un défaut  qui peut retourner une anomalie
-    * Réponse 3:
+    * Réponse 3: Non je ne pense pas que cela soit suffisant, les partitions ne prennent pas en compte les années bixestiles, les mois avec 30 ou 31 jours, le mois de février
   
   * Pour Olivia:
     * Réponse 1: Il faut vérifier si les trois données sont rentrées, et vérifier que les données sont des mesures.
